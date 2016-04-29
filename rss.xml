@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Feel the orient ]]></title>
+        <description><![CDATA[Feel the orient ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 16:38:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Feel the Orient? ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4afa6fa-aad6-4328-ad5d-f93654336f70.jpg">]]></description>
+            <link>undefinedwhat-is-feel-the-orient/index.html</link>
+            <guid isPermaLink="false">c2ac034e-2c1e-4a42-925f-b80b2e1afe23</guid>
+            <pubDate>Fri, 29 Apr 2016 16:38:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
