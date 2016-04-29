@@ -1,6 +1,6 @@
 name: Feel The Orient
 favicon: null
-layout_spectrum: 0.9904138525016606
+layout_spectrum: 1
 typography_spectrum: 0.033758118748664856
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fbfbfb'
+    - '#010302'
+    - '#1070ba'
+    - '#95bdb9'
+    - '#49443a'
   brandStrength: 0.8290023400913924
   lightness: 0.7846392854116857
-  saturation: 0.24130672425962985
+  saturation: 0.1875
   rhythmicContrast: 0.8997690707910806
 purpose: []
