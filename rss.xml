@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Feel the orient ]]></title>
         <description><![CDATA[Feel the orient ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/feel-the-orient/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:38:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 16:44:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/feel-the-orient/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impressions of Lebanon ]]></title>
+            <description><![CDATA[<article><h1>Impressions of Lebanon </h1><h2>Harissa</h2><p>Lorem ipsum dolor sit amet, ei eum explicari vituperata, ius solet vitae petentium eu, nec nostro quaerendum an. Per id facete aliquip viderer, ut qui diam sint. Ex mel veniam eirmod, ius ex pertinax persecuti contentiones. His ea stet suscipit cotidieque. Vim autem aliquip voluptua ne, affert noster instructior est ut, vocent nonumes liberavisse eos eu. Movet persequeris ut eos. Ei eam atqui liber euismod, scaevola senserit euripidis an vim. An aeque nonumy officiis vim. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e46131-a524-4ae3-9c54-aed2bbb9e645.jpg"></article>]]></description>
+            <link>https://thegrid.ai/feel-the-orient/impressions-of-lebanon/index.html</link>
+            <guid isPermaLink="false">6f7166fa-8f71-4676-b4f5-845b796b6484</guid>
+            <pubDate>Fri, 29 Apr 2016 16:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Feel the Orient? ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4afa6fa-aad6-4328-ad5d-f93654336f70.jpg">]]></description>
-            <link>undefinedwhat-is-feel-the-orient/index.html</link>
+            <link>https://thegrid.ai/feel-the-orient/what-is-feel-the-orient/index.html</link>
             <guid isPermaLink="false">c2ac034e-2c1e-4a42-925f-b80b2e1afe23</guid>
             <pubDate>Fri, 29 Apr 2016 16:38:27 GMT</pubDate>
         </item>
